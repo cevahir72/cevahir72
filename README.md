@@ -12,4 +12,4 @@
 <a href="mailto:kelesmevlut71@gmail.com.tr"><img src="https://img.shields.io/badge/-kelesmevlut71@gmail.com.tr-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SalihTpc&label=Profile%20views&color=0e75b6&style=flat" alt="salihtpc" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=cevahir72&label=Profile%20views&color=0e75b6&style=flat" alt="cevahir72" /> </p>
