@@ -8,7 +8,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="linkedin.com/in/mevlut-keles-435607215"><img src="https://img.shields.io/badge/-Mevlut%20KELES-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mevlut-keles-435607215"><img src="https://img.shields.io/badge/-Mevlut%20KELES-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:kelesmevlut71@gmail.com.tr"><img src="https://img.shields.io/badge/-kelesmevlut71@gmail.com.tr-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
